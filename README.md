@@ -2,4 +2,4 @@
 
 👀 I’m interested in PHP, Symfony
 
-🌱 I’m currently learning NodeJS
+🌱 Working in some personal project that you can find bellow ;)
