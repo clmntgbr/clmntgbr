@@ -2,4 +2,4 @@
 
 👀 I’m interested in PHP, Symfony
 
-🌱 Currently working on [Fridge](https://github.com/clmntgbr/fridge)
+🌱 Currently working on [Fridge](https://github.com/clmntgbr/fridge) | [Wine](https://github.com/clmntgbr/wine)
