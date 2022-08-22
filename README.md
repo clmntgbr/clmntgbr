@@ -2,4 +2,6 @@
 
 👀 I’m interested in PHP, Symfony
 
-🌱 Currently working on [Fridge](https://github.com/clmntgbr/fridge) | [Wine](https://github.com/clmntgbr/wine)
+🌱 Currently working on [Fridge](https://github.com/clmntgbr/fridge) | [WineApi](https://github.com/clmntgbr/wine_api) | [WineApp](https://github.com/clmntgbr/wine_app)
+
+🌱 Flutter noob
