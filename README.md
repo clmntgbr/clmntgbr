@@ -1,6 +1,6 @@
 👋 Hi, I’m @clmntgbr
 
-👀 I’m interested in PHP, Symfony
+👀 I’m interested in PHP, Symfony, Flutter
 
 🌱 Currently working on [AlertApi](https://github.com/clmntgbr/alert_api) | [WineApi](https://github.com/clmntgbr/wine_api) 
 
